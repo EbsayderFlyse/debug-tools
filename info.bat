@@ -24,13 +24,13 @@ goto end
 :B
 
 echo Info executer!
-start info/info.txt
+start info.txt
 goto end
 
 :C
 
 echo version et dev executer
-start info/dev.txt
+start dev.txt
 goto end
 
 :end
